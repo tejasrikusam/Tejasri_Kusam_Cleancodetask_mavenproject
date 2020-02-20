@@ -35,7 +35,7 @@ public class App extends Intrest {
 			System.out.println("Compound interest is "+compound_interest(principal_amount,times_calc,years,rate_of_interest));
 		}
 		else
-			System.out.println("Please Enter options spedified in the above list");
+			System.out.println("Please Enter options specified in the above list");
 	}
 
 	public static void main(String args[])
